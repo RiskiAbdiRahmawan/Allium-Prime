@@ -8,8 +8,6 @@
     @vite(['resources/css/app.css','resources/js/app.js'])
 </head>
 <body>
-    
-
     <nav class="bg-white fixed w-full z-20 top-0 start-0 border-b border-white font-nunito">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
